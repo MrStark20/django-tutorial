@@ -1,4 +1,4 @@
-django-tutorial
+django-tutorial For Beginners
 ===============
 
 This repository contains the code for the "Web Development with Python and
@@ -13,7 +13,7 @@ Django web framework.
 Getting Started
 ---------------
 
-If you're attending the tutorial in person, **please** make sure you install
+If you're attending the tutorial in person, **please** make sure that you install
 these prerequisites **before the class begins** so that we can make the most of
 our time together in the session.  You and your fellow attendees will thank you
 for your preparedness!
@@ -133,6 +133,7 @@ Other Versions
 --------------
 
 Looking for a different version?
+have a look at this...
 
  * [Version 2][v2], as presented at CodeMash 2015
 
